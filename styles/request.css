@@ -1,4 +1,3 @@
-@import "../lib/normalize";
 
 @mixin clearfix {
   &:after {
